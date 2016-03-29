@@ -1,6 +1,8 @@
 body{
 	margin:0;
-	background: url(../imgs/packed-4.png);
+	background: url(../imgs/z.png);
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 #canvas{
 	display: block;
@@ -10,4 +12,5 @@ body{
 	margin-left:-300px;
 	margin-top:-300px;
 	box-shadow:0 0 1px black;
+	border:2px solid black;
 }
